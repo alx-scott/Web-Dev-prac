@@ -1,0 +1,44 @@
+body {
+  margin: 50px;
+}
+
+main {
+  background-color: rgb(71, 200, 247);
+  border-radius: 50px;
+  padding: 1px 50px;
+  margin: 0px 5px;
+}
+
+#task-1 {
+  font-size: 35px;
+  color: black;
+}
+
+#career-transitioning {
+  font-family: "mali", sans-serif;
+  font-size: 30px;
+  color: black;
+  background-color: white;
+  border-radius: 50px;
+  padding: 20px;
+  box-shadow: 1px 5px 20px black;
+}
+
+h1 {
+  background-color: rgb(255, 255, 255);
+  border-radius: 50px;
+  font-size: 40px;
+  margin: -4px 250px;
+  border-style: solid;
+  border-color: red;
+  font-family: "Pacifico", sans-serif;
+  color: black;
+  box-shadow: 5px 5px 30px red;
+}
+
+main {
+  border-style: solid;
+  border-color: red;
+  box-shadow: 5px 5px 20px red;
+  font-family: "titillium web", sans-serif;
+}

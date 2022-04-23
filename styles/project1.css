@@ -1,0 +1,47 @@
+.header h1 {
+  font-family: "Titillium web", sans-serif;
+}
+
+.summary-list {
+  text-align: left;
+  font-family: "titillium web", sans-serif;
+  background-color: rgb(71, 200, 247);
+  border-radius: 50px;
+  border-style: solid;
+  border-color: #ff0000;
+  padding: 20px;
+  margin: 90px 0px 52px 0px;
+  box-shadow: 1px 5px 20px red;
+}
+
+ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+li {
+  margin: 14px 0;
+  padding-left: 10px;
+  border-left: 5px solid transparent;
+}
+.summary-list a {
+  font-family: "titillium web", sans-serif;
+  font-size: 18px;
+  box-shadow: none;
+}
+
+.summary-list a:hover {
+  box-shadow: none;
+}
+
+.footer a {
+  font-family: "titillium web", sans-serif;
+}
+.footer p {
+  color: darkgoldenrod;
+  font-size: 20px;
+}
+.highlight {
+  color: red;
+  border-color: red;
+}

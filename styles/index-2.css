@@ -1,0 +1,77 @@
+h1 {
+  font-family: "pacifico", sans-serif;
+  color: black;
+  display: block;
+  font-size: 40px;
+  border-style: solid;
+  border-color: red;
+  border-radius: 100px;
+  box-shadow: 5px 5px 30px red;
+  padding: 20px 10px 30px 40px;
+  margin: -23px 120px;
+}
+
+img {
+  border-radius: 100px;
+  border-style: solid;
+  border-color: red;
+  box-shadow: 5px 5px 30px red;
+  margin-bottom: -9px;
+}
+
+header {
+  margin-top: -20px;
+  margin-bottom: -6px;
+  font-size: 20px;
+  color: rgb(0, 0, 0);
+  font-family: "Titillium Web", sans-serif;
+}
+
+.unorder {
+  width: 500px;
+  margin: 36px auto 53px auto;
+  background-color: rgb(71, 200, 247);
+  border-radius: 50px;
+  padding: 24px 60px 50px;
+  border-style: solid;
+  border-color: red;
+  box-shadow: 5px 5px 30px red;
+}
+
+.order {
+  width: 500px;
+  margin: -88px auto 0 auto;
+  padding-bottom: 1px;
+  background-color: rgb(71, 200, 247);
+  border-radius: 50px;
+  border-style: solid;
+  border-color: red;
+  box-shadow: 5px 5px 30px red;
+}
+
+ul li {
+  font-size: 30px;
+  list-style: none;
+  color: black;
+  font-family: "mali", sans-serif;
+  background-color: white;
+  border-radius: 20px;
+  margin: 31px 10px 26px -27px;
+  border-style: solid;
+  border-color: black;
+  box-shadow: 1px 5px 20px black;
+}
+
+ol li {
+  font-size: 26px;
+  color: black;
+  font-family: "mali", sans-serif;
+  list-style: none;
+  margin: 4px 178px 0px 153px;
+  padding: 10px 14px 0px 15px;
+  background-color: white;
+  border-radius: 200px;
+  border-style: solid;
+  border-color: black;
+  box-shadow: 1px 5px 20px black;
+}
